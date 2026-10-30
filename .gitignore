@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+
+run_id.json
+
+.streamlit/secrets.toml
+.env
+.vscode/
+motor_data.csv
