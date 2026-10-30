@@ -1,5 +1,7 @@
 # Industrial Motor Monitoring & Fault Diagnosis System
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://industrial-motor-monitor.streamlit.app/)
 
+🌐 **Live Demo:** https://industrial-motor-monitor.streamlit.app/
 基于 Python 和 Streamlit 开发的工业电机模拟监控与故障诊断系统。
 
 ## 项目简介
