@@ -14,7 +14,11 @@
 ### Main Interface
 
 ![Industrial Motor Monitoring Dashboard](screenshots/dashboard-overview.png)
+### Trend Analysis
 
+The dashboard visualizes motor current, temperature, and speed trends to help monitor operating conditions and identify abnormal behavior.
+
+![Motor Trend Analysis](screenshots/dashboard-trends.png)
 ## 主要功能
 
 - **电机数据模拟**：支持正常运行、过载、过热和低转速四种模拟模式。
