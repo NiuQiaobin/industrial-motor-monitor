@@ -59,6 +59,16 @@ industrial-monitor/
 ├── .gitignore
 └── README.md
 ```
+## System Architecture
+
+The project consists of four main components:
+
+1. **Motor Simulator (`motor_simulator.py`)** – Generates simulated motor operating data under different conditions.
+2. **Alarm Detection (`alarm_utils.py`)** – Detects abnormal conditions based on predefined thresholds.
+3. **Data Analysis (`analyse_motor.py`)** – Supports offline data analysis and visualization.
+4. **Monitoring Dashboard (`dashboard.py`)** – Displays motor metrics, trends, alarms, and risk analysis through Streamlit.
+
+The simulator generates data, the alarm module evaluates operating conditions, and the dashboard presents the results for monitoring and analysis.
 
 运行过程中还会生成 `motor_data.csv` 和 `run_id.json` 等本地数据文件。
 
