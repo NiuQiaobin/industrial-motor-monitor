@@ -70,6 +70,18 @@ The project consists of four main components:
 
 The simulator generates data, the alarm module evaluates operating conditions, and the dashboard presents the results for monitoring and analysis.
 
+## Testing
+
+The alarm detection module is tested using Python's built-in `unittest` framework.
+
+Four test cases are included:
+
+- Normal operation
+- High current detection
+- High temperature detection
+- Low speed detection
+
+All four tests passed successfully.
 运行过程中还会生成 `motor_data.csv` 和 `run_id.json` 等本地数据文件。
 
 ## 安装与运行
