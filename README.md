@@ -19,6 +19,11 @@
 The dashboard visualizes motor current, temperature, and speed trends to help monitor operating conditions and identify abnormal behavior.
 
 ![Motor Trend Analysis](screenshots/dashboard-trends.png)
+### Alarm & Risk Analysis
+
+The system detects abnormal motor conditions based on configurable thresholds and provides diagnostic suggestions for high current, high temperature, and low speed.
+
+It also summarizes alarm statistics, fault categories, and batch-level risk levels to support monitoring and analysis.
 ## 主要功能
 
 - **电机数据模拟**：支持正常运行、过载、过热和低转速四种模拟模式。
