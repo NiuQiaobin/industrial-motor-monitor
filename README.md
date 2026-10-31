@@ -9,6 +9,11 @@
 本项目通过模拟工业电机运行数据，构建一个可视化监控仪表板，实现电机运行状态监测、异常报警、故障诊断和批次风险分析。
 
 项目主要用于 Python 编程学习及工业设备监控系统的模拟实践。
+## Dashboard Preview
+
+### Main Interface
+
+![Industrial Motor Monitoring Dashboard](screenshots/dashboard-overview.png)
 
 ## 主要功能
 
